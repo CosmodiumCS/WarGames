@@ -1,0 +1,66 @@
+/lib64/ld-linux-x86-64.so.2
+mfUa
+libdl.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+dlsym
+dlopen
+libc.so.6
+exit
+fopen
+ftell
+puts
+__stack_chk_fail
+stdin
+mmap
+fseek
+stdout
+memcpy
+fclose
+malloc
+stderr
+fread
+fprintf
+__cxa_finalize
+setvbuf
+__libc_start_main
+GLIBC_2.2.5
+GLIBC_2.14
+GLIBC_2.4
+u+UH
+H=XDLLt
+[]A\A]A^A_
+Memory error
+Format unrecognized
+Error during import resolving
+Usage: %s <exe>
+File %s not found
+:*3$"
+GCC: (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.plt.sec
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.data
+.bss
+.comment

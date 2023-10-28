@@ -1,0 +1,17 @@
+XDLL
+libc.so.6
+printf
+libc.so.6
+read
+libc.so.6
+strchr
+libc.so.6
+strlen
+libc.so.6
+strncmp
+libc.so.6
+puts
+/=*"H
+Enter keH
+Correct!H
+IncorrecH
