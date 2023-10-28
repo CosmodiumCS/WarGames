@@ -1,0 +1,120 @@
+/lib64/ld-linux-x86-64.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+cexpf
+pa_simple_free
+pa_simple_new
+pa_simple_read
+pa_strerror
+exit
+fopen
+optind
+perror
+signal
+strtol
+fseek
+getopt
+fputc
+fputs
+fclose
+optarg
+stderr
+fwrite
+fprintf
+__cxa_finalize
+__libc_start_main
+libm.so.6
+libpulse-simple.so.0
+libpulse.so.0
+libc.so.6
+_edata
+__bss_start
+_end
+PULSE_0
+GLIBC_2.2.5
+AUE1
+cuUH
+[]A\A]
+u/UH
+K H	
+AUATUH
+]A\A]
+A\A]
+]A\A]
+S,M9
+C$;k(t
+S,M9
+[]A\A]
+MPLEWAVEH
+T$$I
+[]A\
+MPLEWAVE
+AWAVAUATA
+D$$L
+|$ D
+D$(H
+D$0A
+t$(H
+h[]A\A]A^A_
+G,9w(u
+AVAUATUSH
+~D$H
+h[]A\A]A^A_
+t$8H
+L$0H
+t$8H
+L$0fE
+L$ H
+t$(H
+L$ fE
+D$PH
+ATUH
+C,I9
+D;c(t
+C,I9
+[]A\A]
+[]A\A]A^A_
+write
+open
+signal
+wave
+pa_simple_new: %s
+[2K[*] done! %s
+-\|/
+[%c] recording to %s: [%d:%02d.%02d] %d kB...
+    codec:    %d
+    duration: %d:%02d.%02d
+    size:     %d kB
+    ratio:    %-3d%%
+usage: wave [options] <out.maplewave>
+Record audio.
+Interrupt with ctrl-c when done.
+  -c level  set compression level (0-2, default 0)
+;*3$"
+GCC: (Debian 10.2.1-6) 10.2.1 20210110
+.shstrtab
+.interp
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got.plt
+.data
+.bss
+.comment

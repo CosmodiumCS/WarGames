@@ -1,0 +1,277 @@
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Position-Independent Executable file)
+  Machine:                           Advanced Micro Devices X86-64
+  Version:                           0x1
+  Entry point address:               0x1230
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          16976 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         11
+  Size of section headers:           64 (bytes)
+  Number of section headers:         28
+  Section header string table index: 27
+
+Section Headers:
+  [Nr] Name              Type             Address           Offset
+       Size              EntSize          Flags  Link  Info  Align
+  [ 0]                   NULL             0000000000000000  00000000
+       0000000000000000  0000000000000000           0     0     0
+  [ 1] .interp           PROGBITS         00000000000002a8  000002a8
+       000000000000001c  0000000000000000   A       0     0     1
+  [ 2] .note.gnu.bu[...] NOTE             00000000000002c4  000002c4
+       0000000000000024  0000000000000000   A       0     0     4
+  [ 3] .note.ABI-tag     NOTE             00000000000002e8  000002e8
+       0000000000000020  0000000000000000   A       0     0     4
+  [ 4] .gnu.hash         GNU_HASH         0000000000000308  00000308
+       0000000000000044  0000000000000000   A       5     0     8
+  [ 5] .dynsym           DYNSYM           0000000000000350  00000350
+       00000000000002e8  0000000000000018   A       6     1     8
+  [ 6] .dynstr           STRTAB           0000000000000638  00000638
+       000000000000016c  0000000000000000   A       0     0     1
+  [ 7] .gnu.version      VERSYM           00000000000007a4  000007a4
+       000000000000003e  0000000000000002   A       5     0     2
+  [ 8] .gnu.version_r    VERNEED          00000000000007e8  000007e8
+       0000000000000080  0000000000000000   A       6     4     8
+  [ 9] .rela.dyn         RELA             0000000000000868  00000868
+       00000000000001c8  0000000000000018   A       5     0     8
+  [10] .rela.plt         RELA             0000000000000a30  00000a30
+       00000000000001b0  0000000000000018  AI       5    23     8
+  [11] .init             PROGBITS         0000000000001000  00001000
+       0000000000000017  0000000000000000  AX       0     0     4
+  [12] .plt              PROGBITS         0000000000001020  00001020
+       0000000000000130  0000000000000010  AX       0     0     16
+  [13] .plt.got          PROGBITS         0000000000001150  00001150
+       0000000000000008  0000000000000008  AX       0     0     8
+  [14] .text             PROGBITS         0000000000001160  00001160
+       0000000000001151  0000000000000000  AX       0     0     16
+  [15] .fini             PROGBITS         00000000000022b4  000022b4
+       0000000000000009  0000000000000000  AX       0     0     4
+  [16] .rodata           PROGBITS         0000000000003000  00003000
+       00000000000001b8  0000000000000000   A       0     0     16
+  [17] .eh_frame_hdr     PROGBITS         00000000000031b8  000031b8
+       00000000000000cc  0000000000000000   A       0     0     4
+  [18] .eh_frame         PROGBITS         0000000000003288  00003288
+       0000000000000430  0000000000000000   A       0     0     8
+  [19] .init_array       INIT_ARRAY       0000000000004db0  00003db0
+       0000000000000010  0000000000000008  WA       0     0     8
+  [20] .fini_array       FINI_ARRAY       0000000000004dc0  00003dc0
+       0000000000000008  0000000000000008  WA       0     0     8
+  [21] .dynamic          DYNAMIC          0000000000004dc8  00003dc8
+       0000000000000210  0000000000000010  WA       6     0     8
+  [22] .got              PROGBITS         0000000000004fd8  00003fd8
+       0000000000000028  0000000000000008  WA       0     0     8
+  [23] .got.plt          PROGBITS         0000000000005000  00004000
+       00000000000000a8  0000000000000008  WA       0     0     8
+  [24] .data             PROGBITS         00000000000050b0  000040b0
+       0000000000000080  0000000000000000  WA       0     0     16
+  [25] .bss              NOBITS           0000000000005140  00004130
+       0000000000001700  0000000000000000  WA       0     0     32
+  [26] .comment          PROGBITS         0000000000000000  00004130
+       0000000000000027  0000000000000001  MS       0     0     1
+  [27] .shstrtab         STRTAB           0000000000000000  00004157
+       00000000000000f7  0000000000000000           0     0     1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+  L (link order), O (extra OS processing required), G (group), T (TLS),
+  C (compressed), x (unknown), o (OS specific), E (exclude),
+  D (mbind), l (large), p (processor specific)
+
+There are no section groups in this file.
+
+Program Headers:
+  Type           Offset             VirtAddr           PhysAddr
+                 FileSiz            MemSiz              Flags  Align
+  PHDR           0x0000000000000040 0x0000000000000040 0x0000000000000040
+                 0x0000000000000268 0x0000000000000268  R      0x8
+  INTERP         0x00000000000002a8 0x00000000000002a8 0x00000000000002a8
+                 0x000000000000001c 0x000000000000001c  R      0x1
+      [Requesting program interpreter: /lib64/ld-linux-x86-64.so.2]
+  LOAD           0x0000000000000000 0x0000000000000000 0x0000000000000000
+                 0x0000000000000be0 0x0000000000000be0  R      0x1000
+  LOAD           0x0000000000001000 0x0000000000001000 0x0000000000001000
+                 0x00000000000012bd 0x00000000000012bd  R E    0x1000
+  LOAD           0x0000000000003000 0x0000000000003000 0x0000000000003000
+                 0x00000000000006b8 0x00000000000006b8  R      0x1000
+  LOAD           0x0000000000003db0 0x0000000000004db0 0x0000000000004db0
+                 0x0000000000000380 0x0000000000001a90  RW     0x1000
+  DYNAMIC        0x0000000000003dc8 0x0000000000004dc8 0x0000000000004dc8
+                 0x0000000000000210 0x0000000000000210  RW     0x8
+  NOTE           0x00000000000002c4 0x00000000000002c4 0x00000000000002c4
+                 0x0000000000000044 0x0000000000000044  R      0x4
+  GNU_EH_FRAME   0x00000000000031b8 0x00000000000031b8 0x00000000000031b8
+                 0x00000000000000cc 0x00000000000000cc  R      0x4
+  GNU_STACK      0x0000000000000000 0x0000000000000000 0x0000000000000000
+                 0x0000000000000000 0x0000000000000000  RW     0x10
+  GNU_RELRO      0x0000000000003db0 0x0000000000004db0 0x0000000000004db0
+                 0x0000000000000250 0x0000000000000250  R      0x1
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     
+   01     .interp 
+   02     .interp .note.gnu.build-id .note.ABI-tag .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt 
+   03     .init .plt .plt.got .text .fini 
+   04     .rodata .eh_frame_hdr .eh_frame 
+   05     .init_array .fini_array .dynamic .got .got.plt .data .bss 
+   06     .dynamic 
+   07     .note.gnu.build-id .note.ABI-tag 
+   08     .eh_frame_hdr 
+   09     
+   10     .init_array .fini_array .dynamic .got 
+
+Dynamic section at offset 0x3dc8 contains 29 entries:
+  Tag        Type                         Name/Value
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libpulse-simple.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libpulse.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+ 0x000000000000000c (INIT)               0x1000
+ 0x000000000000000d (FINI)               0x22b4
+ 0x0000000000000019 (INIT_ARRAY)         0x4db0
+ 0x000000000000001b (INIT_ARRAYSZ)       16 (bytes)
+ 0x000000000000001a (FINI_ARRAY)         0x4dc0
+ 0x000000000000001c (FINI_ARRAYSZ)       8 (bytes)
+ 0x000000006ffffef5 (GNU_HASH)           0x308
+ 0x0000000000000005 (STRTAB)             0x638
+ 0x0000000000000006 (SYMTAB)             0x350
+ 0x000000000000000a (STRSZ)              364 (bytes)
+ 0x000000000000000b (SYMENT)             24 (bytes)
+ 0x0000000000000015 (DEBUG)              0x0
+ 0x0000000000000003 (PLTGOT)             0x5000
+ 0x0000000000000002 (PLTRELSZ)           432 (bytes)
+ 0x0000000000000014 (PLTREL)             RELA
+ 0x0000000000000017 (JMPREL)             0xa30
+ 0x0000000000000007 (RELA)               0x868
+ 0x0000000000000008 (RELASZ)             456 (bytes)
+ 0x0000000000000009 (RELAENT)            24 (bytes)
+ 0x000000006ffffffb (FLAGS_1)            Flags: PIE
+ 0x000000006ffffffe (VERNEED)            0x7e8
+ 0x000000006fffffff (VERNEEDNUM)         4
+ 0x000000006ffffff0 (VERSYM)             0x7a4
+ 0x000000006ffffff9 (RELACOUNT)          11
+ 0x0000000000000000 (NULL)               0x0
+
+Relocation section '.rela.dyn' at offset 0x868 contains 19 entries:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+000000004db0  000000000008 R_X86_64_RELATIVE                    1310
+000000004db8  000000000008 R_X86_64_RELATIVE                    11e0
+000000004dc0  000000000008 R_X86_64_RELATIVE                    12d0
+0000000050b8  000000000008 R_X86_64_RELATIVE                    50b8
+0000000050f0  000000000008 R_X86_64_RELATIVE                    1330
+0000000050f8  000000000008 R_X86_64_RELATIVE                    1480
+000000005100  000000000008 R_X86_64_RELATIVE                    1480
+000000005110  000000000008 R_X86_64_RELATIVE                    1340
+000000005118  000000000008 R_X86_64_RELATIVE                    14f0
+000000005120  000000000008 R_X86_64_RELATIVE                    1e30
+000000005128  000000000008 R_X86_64_RELATIVE                    30d8
+000000004fd8  000300000006 R_X86_64_GLOB_DAT 0000000000000000 __gmon_start__ + 0
+000000004fe0  000a00000006 R_X86_64_GLOB_DAT 0000000000000000 __libc_start_main@GLIBC_2.2.5 + 0
+000000004fe8  000b00000006 R_X86_64_GLOB_DAT 0000000000000000 _ITM_deregisterTM[...] + 0
+000000004ff0  000d00000006 R_X86_64_GLOB_DAT 0000000000000000 _ITM_registerTMCl[...] + 0
+000000004ff8  001700000006 R_X86_64_GLOB_DAT 0000000000000000 __cxa_finalize@GLIBC_2.2.5 + 0
+000000005140  001d00000005 R_X86_64_COPY     0000000000005140 optind@GLIBC_2.2.5 + 0
+000000005160  001e00000005 R_X86_64_COPY     0000000000005160 optarg@GLIBC_2.2.5 + 0
+000000005180  001b00000005 R_X86_64_COPY     0000000000005180 stderr@GLIBC_2.2.5 + 0
+
+Relocation section '.rela.plt' at offset 0xa30 contains 18 entries:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+000000005018  000100000007 R_X86_64_JUMP_SLO 0000000000000000 pa_simple_read@PULSE_0 + 0
+000000005020  000200000007 R_X86_64_JUMP_SLO 0000000000000000 printf@GLIBC_2.2.5 + 0
+000000005028  000400000007 R_X86_64_JUMP_SLO 0000000000000000 fseek@GLIBC_2.2.5 + 0
+000000005030  000500000007 R_X86_64_JUMP_SLO 0000000000000000 exit@GLIBC_2.2.5 + 0
+000000005038  000600000007 R_X86_64_JUMP_SLO 0000000000000000 pa_simple_free@PULSE_0 + 0
+000000005040  000700000007 R_X86_64_JUMP_SLO 0000000000000000 pa_simple_new@PULSE_0 + 0
+000000005048  000800000007 R_X86_64_JUMP_SLO 0000000000000000 getopt@GLIBC_2.2.5 + 0
+000000005050  000900000007 R_X86_64_JUMP_SLO 0000000000000000 fopen@GLIBC_2.2.5 + 0
+000000005058  000c00000007 R_X86_64_JUMP_SLO 0000000000000000 fputc@GLIBC_2.2.5 + 0
+000000005060  000e00000007 R_X86_64_JUMP_SLO 0000000000000000 cexpf@GLIBC_2.2.5 + 0
+000000005068  000f00000007 R_X86_64_JUMP_SLO 0000000000000000 fputs@GLIBC_2.2.5 + 0
+000000005070  001000000007 R_X86_64_JUMP_SLO 0000000000000000 strtol@GLIBC_2.2.5 + 0
+000000005078  001100000007 R_X86_64_JUMP_SLO 0000000000000000 signal@GLIBC_2.2.5 + 0
+000000005080  001200000007 R_X86_64_JUMP_SLO 0000000000000000 fclose@GLIBC_2.2.5 + 0
+000000005088  001300000007 R_X86_64_JUMP_SLO 0000000000000000 pa_strerror@PULSE_0 + 0
+000000005090  001400000007 R_X86_64_JUMP_SLO 0000000000000000 fwrite@GLIBC_2.2.5 + 0
+000000005098  001500000007 R_X86_64_JUMP_SLO 0000000000000000 perror@GLIBC_2.2.5 + 0
+0000000050a0  001600000007 R_X86_64_JUMP_SLO 0000000000000000 fprintf@GLIBC_2.2.5 + 0
+No processor specific unwind information to decode
+
+Symbol table '.dynsym' contains 31 entries:
+   Num:    Value          Size Type    Bind   Vis      Ndx Name
+     0: 0000000000000000     0 NOTYPE  LOCAL  DEFAULT  UND 
+     1: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND pa_s[...]@PULSE_0 (2)
+     2: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+     3: 0000000000000000     0 NOTYPE  WEAK   DEFAULT  UND __gmon_start__
+     4: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND fseek@GLIBC_2.2.5 (3)
+     5: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND exit@GLIBC_2.2.5 (3)
+     6: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND pa_s[...]@PULSE_0 (2)
+     7: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND pa_s[...]@PULSE_0 (2)
+     8: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+     9: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND fopen@GLIBC_2.2.5 (3)
+    10: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    11: 0000000000000000     0 NOTYPE  WEAK   DEFAULT  UND _ITM_deregisterT[...]
+    12: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND fputc@GLIBC_2.2.5 (3)
+    13: 0000000000000000     0 NOTYPE  WEAK   DEFAULT  UND _ITM_registerTMC[...]
+    14: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND cexpf@GLIBC_2.2.5 (4)
+    15: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND fputs@GLIBC_2.2.5 (3)
+    16: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    17: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    18: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    19: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND pa_s[...]@PULSE_0 (5)
+    20: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    21: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    22: 0000000000000000     0 FUNC    GLOBAL DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    23: 0000000000000000     0 FUNC    WEAK   DEFAULT  UND [...]@GLIBC_2.2.5 (3)
+    24: 0000000000006840     0 NOTYPE  GLOBAL DEFAULT   25 _end
+    25: 0000000000005130     0 NOTYPE  GLOBAL DEFAULT   24 _edata
+    26: 0000000000005130     0 NOTYPE  GLOBAL DEFAULT   25 __bss_start
+    27: 0000000000005180     8 OBJECT  GLOBAL DEFAULT   25 [...]@GLIBC_2.2.5 (3)
+    28: 0000000000001160   127 FUNC    GLOBAL DEFAULT   14 main
+    29: 0000000000005140     4 OBJECT  GLOBAL DEFAULT   25 [...]@GLIBC_2.2.5 (3)
+    30: 0000000000005160     8 OBJECT  GLOBAL DEFAULT   25 [...]@GLIBC_2.2.5 (3)
+
+Histogram for `.gnu.hash' bucket list length (total of 3 buckets):
+ Length  Number     % of total  Coverage
+      0  0          (  0.0%)
+      1  0          (  0.0%)      0.0%
+      2  1          ( 33.3%)     25.0%
+      3  2          ( 66.7%)    100.0%
+
+Version symbols section '.gnu.version' contains 31 entries:
+ Addr: 0x00000000000007a4  Offset: 0x0007a4  Link: 5 (.dynsym)
+  000:   0 (*local*)       2 (PULSE_0)       3 (GLIBC_2.2.5)   0 (*local*)    
+  004:   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   2 (PULSE_0)       2 (PULSE_0)    
+  008:   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   0 (*local*)    
+  00c:   3 (GLIBC_2.2.5)   0 (*local*)       4 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)
+  010:   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   5 (PULSE_0)    
+  014:   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)
+  018:   1 (*global*)      1 (*global*)      1 (*global*)      3 (GLIBC_2.2.5)
+  01c:   1 (*global*)      3 (GLIBC_2.2.5)   3 (GLIBC_2.2.5)
+
+Version needs section '.gnu.version_r' contains 4 entries:
+ Addr: 0x00000000000007e8  Offset: 0x0007e8  Link: 6 (.dynstr)
+  000000: Version: 1  File: libpulse.so.0  Cnt: 1
+  0x0010:   Name: PULSE_0  Flags: none  Version: 5
+  0x0020: Version: 1  File: libm.so.6  Cnt: 1
+  0x0030:   Name: GLIBC_2.2.5  Flags: none  Version: 4
+  0x0040: Version: 1  File: libc.so.6  Cnt: 1
+  0x0050:   Name: GLIBC_2.2.5  Flags: none  Version: 3
+  0x0060: Version: 1  File: libpulse-simple.so.0  Cnt: 1
+  0x0070:   Name: PULSE_0  Flags: none  Version: 2
+
+Displaying notes found in: .note.gnu.build-id
+  Owner                Data size 	Description
+  GNU                  0x00000014	NT_GNU_BUILD_ID (unique build ID bitstring)
+    Build ID: 9e70abd82cf7c3a878ce9d9644be1e9034cabcaf
+
+Displaying notes found in: .note.ABI-tag
+  Owner                Data size 	Description
+  GNU                  0x00000010	NT_GNU_ABI_TAG (ABI version tag)
+    OS: Linux, ABI: 3.2.0

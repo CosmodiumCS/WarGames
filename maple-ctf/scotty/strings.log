@@ -1,0 +1,4511 @@
+/lib64/ld-linux-x86-64.so.2
+epoll_ctl
+GLIBC_2.3.2
+libc.so.6
+eventfd_write
+GLIBC_2.7
+eventfd
+__cxa_atexit
+GLIBC_2.2.5
+epoll_wait
+epoll_create
+memcpy
+GLIBC_2.14
+fseek
+feof
+snprintf
+ftell
+fread
+ffi_type_pointer
+LIBFFI_BASE_7.0
+libffi.so.7
+ffi_type_uint8
+ffi_type_sint8
+ffi_type_uint16
+ffi_type_sint16
+ffi_type_uint32
+ffi_type_sint32
+ffi_type_uint64
+ffi_type_sint64
+ffi_type_double
+ffi_type_float
+ffi_type_void
+ffi_prep_cif
+dirname
+fputs
+fgets
+dlsym
+libdl.so.2
+regexec
+GLIBC_2.3.4
+regfree
+dlopen
+dlerror
+regcomp
+ffi_call
+pthread_mutex_trylock
+libpthread.so.0
+mkdir
+getc
+siginterrupt
+pthread_kill
+sigdelset
+pthread_key_create
+pause
+pthread_getspecific
+pthread_setspecific
+select
+pthread_key_delete
+syscall
+sched_setaffinity
+pthread_mutex_destroy
+pthread_mutex_init
+pthread_self
+pthread_setname_np
+GLIBC_2.12
+pthread_detach
+pthread_create
+mprotect
+pthread_exit
+getrlimit
+sched_yield
+pthread_cond_wait
+pthread_cond_signal
+pthread_cond_broadcast
+pthread_cond_destroy
+pthread_cond_init
+munmap
+strdup
+madvise
+mmap
+stpcpy
+timer_delete
+GLIBC_2.3.3
+librt.so.1
+signal
+timer_settime
+timer_create
+gettimeofday
+sysconf
+getrusage
+clock_gettime
+GLIBC_2.17
+ffi_closure_free
+LIBFFI_CLOSURE_7.0
+ffi_closure_alloc
+fopen
+fclose
+sprintf
+puts
+raise
+printf
+ctime_r
+time
+strnlen
+setlocale
+exit
+kill
+sigaction
+fputc
+fprintf
+strrchr
+fflush
+stdout
+strtod
+strtol
+strtoull
+getegid
+getgid
+geteuid
+getuid
+strcpy
+vfprintf
+strncpy
+__ctype_b_loc
+GLIBC_2.3
+strlen
+strcmp
+memcmp
+qsort
+GLIBC_2.29
+libm.so.6
+__libc_start_main
+__gmon_start__
+memset
+__assert_fail
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+memmove
+fwrite
+stderr
+atanhf
+asinh
+asinhf
+acos
+log1pf
+asinf
+expm1f
+log1p
+tanhf
+acoshf
+atan
+sinhf
+sinh
+sinf
+acosf
+acosh
+coshf
+asin
+atanf
+atanh
+ldexp
+logf
+GLIBC_2.27
+cosf
+cosh
+expf
+powf
+expm1
+tanf
+tanh
+malloc
+free
+calloc
+realloc
+getenv
+write
+utime
+lseek
+read
+putenv
+tcsetattr
+sigprocmask
+tcgetattr
+sigemptyset
+sigaddset
+fcntl
+mkfifo
+waitpid
+fork
+link
+pipe
+unlink
+getpid
+umask
+close
+creat
+isatty
+dup2
+access
+chmod
+nl_langinfo
+__errno_location
+ftruncate
+iconv_close
+__xstat
+__fxstat
+iconv_open
+__lxstat
+iconv
+unsetenv
+open
+environ
+strerror
+__gmpn_cmp
+__gmpn_mod_1
+__gmpn_popcount
+poll
+__gmpn_add_1
+__gmpn_sub_1
+__gmpn_mul_1
+__gmpn_add
+__gmpn_sub
+__gmpn_mul
+__gmpn_tdiv_qr
+__gmpn_divrem_1
+__gmpn_rshift
+abort
+__gmpn_lshift
+__gmpz_get_d
+__gmpz_get_d_2exp
+__gmpn_gcd_1
+__gmpz_init
+__gmpz_gcd
+__gmpz_clear
+__gmpz_gcdext
+__gmpz_sizeinbase
+__gmpz_export
+__gmpz_probab_prime_p
+__gmpz_nextprime
+__gmpz_powm
+__gmpz_powm_sec
+__gmpz_invert
+__gmpn_and_n
+__gmpn_andn_n
+__gmpn_ior_n
+__gmpn_xor_n
+libgmp.so.10
+ATUS
+AUATUSH
+u!f.
+[]A\A]
+[]A\A]
+AWAVAUATUH
+I9l$
+M9t$
+N	L)
+t-E1
+D$(H
+D$(H
+N	L)
+|$8L
+|$8H
+D$8I
+rKH+E
+I9l$
+H[]A\A]A^A_
+L$$L
+t$ I9
+L$$L
+t$ I9
+|$8I
+|$8H
+D$8I
+|$8H
+|$8H
+|$8I
+|$8L
+|$8I
+|$8H
+D$8I
+|$8H
+|$8H
+D$8I
+D$(M
+L$$L
+t$ I9
+D$(M
+L$ L
+t$$L9
+AWAVAUATI
+L;v 
+[]A\A]A^A_
+L;N 
+H;V 
+[]A\A]A^A_
+L;V 
+L;F 
+L;F 
+H;N 
+L;N 
+L;v 
+L;v 
+}$D9
+H;N 
+H;N 
+L;V 
+D- O
+D+ J
+L-(K
+L+(J
+|-0K
+|+0J
+t-8K
+t+8J
+D-@K
+D+@N
+L-HO
+L+HI
+H;~ 
+H;V 
+L;~ 
+[]A\A]A^A_
+L;N 
+{(E9
+P.Hi
+L;F w-H
+ffffff.
+t$@H
+D$@H
+t$@I
+1ycZ
+|@H;E
+\y,j
+L$@H
+T$@I
+\$HH
+L$HH
+C'H;C/
+L$@H
+T$@I
+E hZA
+\$HH
+L$HH
+C'H;C/
+L$@H
+T$@I
+\$HH
+L$HH
+C'H;C/
+\$@H
+L$@I
+E hhA
+C'H;C/
+L$HH
+T$HH
+D$PH
+\$PI
+\$PH
+S/H+
+\$@H
+L$@I
+C'H;C/
+L$HH
+T$HH
+D$PH
+\$PI
+\$PH
+E(0qA
+S/H+
+\$@H
+L$@I
+C'H;C/
+L$HH
+T$HH
+D$PH
+\$PI
+\$PH
+E(@yA
+S/H+
+-tDI
+L$@L
+D$HH
+L$PH
+T$XH
+T$@H
+D$PI
+D$XI
+D$HI
+D$PI
+D$XI
+D$PI
+D$XI
+?t4H
+D$@H
+L$HH
+D$HI
+D$@I
+@}>I
+|$@H
+\$HL
+T$PH
+t$XH
+|$`H
+\$hL
+D$pL
+\$xL
+t$@L
+t$HL
+t$PL
+t$XL
+t$`L
+t$hL
+t$pL
+D$xH
+UPH+U`H
+D$HH
+L$PH
+T$XH
+t$`H
+|$pH
+D$xI
+\$PI
+\$XI
+\$HI
+\$`I
+\$hI
+D$pI
+D$pI
+D$pI
+D$pI
+|$@H
+\$HL
+T$PH
+t$XH
+|$`H
+\$hL
+D$pL
+\$xL
+t$@L
+t$HL
+t$PL
+t$XL
+t$`L
+t$xL
+t$hL
+t$pL
+D$@H
+L$HH
+T$PH
+t$XH
+|$`H
+D$hL
+@}@L
+L$pL
+L$hL+M0H
+L$pE1
+D$@H
+L$HH
+T$PH
+t$XH
+|$`H
+D$hL
+L$pL
+\$PI
+\$XI
+\$@I
+\$pI
+D$HI
+D$`I
+D$hI
+|$@H
+D$HL
+|$PH
+T$XH
+t$`H
+D$hL
+\$pL
+t$@L
+t$HL
+t$PL
+t$XL
+t$`L
+t$hL
+t$pL
+\$@H
+L$PH
+T$XH
+t$`H
+|$hH
+D$pL
+@}=L
+L$xI
+L$xE1
+D$@H
+L$PH
+T$XH
+t$`H
+|$hH
+D$pL
+L$xL
+\$XI
+\$`I
+\$@I
+D$PI
+D$hI
+D$xI
+D$pI
+|$@H
+L$HL
+D$PL
+L$XL
+T$`H
+\$hL
+t$@L
+t$HL
+t$PL
+t$XL
+t$`L
+t$hH
+\$@H
+L$PH
+T$XH
+t$`H
+|$pH
+@}=L
+D$xM
+D$xE1
+D$@H
+L$PH
+T$XH
+t$`H
+|$pH
+D$xL
+L$hL
+L$XI
+D$`I
+D$pI
+D$@I
+D$PI
+D$XI
+D$xI
+D$hI
+K@H9
+K@H9
+T$@M
+T$HL
+D$PL
+D$@G
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$PL
+D$@G
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+K@H9
+K@H9
+T$@M
+T$HL
+D$PL
+D$@G
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$PL
+D$@G
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$PL
+D$@G
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$XL
+t$XH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+K@H9
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+L$XM
+L$XL
+D$PM9
+D$PI
+D$@G
+L$XI
+L$`L
+\$hL
+\$`F
+\$hL
+L$XL
+L$XL
+K@H9
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$pL
+t$pH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+L$XM
+L$XL
+D$PM9
+D$PI
+D$@G
+L$XI
+L$`L
+\$hL
+\$`F
+\$hL
+L$XL
+L$XL
+L$HH
+T$PL
+\$XL
+D$`L
+L$`H
+T$HI
+T$PI
+D$XI
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+T$XL
+L$PL
+\$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+\$`L
+L$XL
+D$PH9
+D$PM
+D$@G
+L$XM
+\$`L
+\$@G
+t$hL
+t$@G
+t$hL
+\$`L
+L$XL
+\$`L
+L$XL
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$`L
+T$XL
+L$PL
+t$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$hI
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+T$XL
+L$PL
+\$@I
+D$PI
+D$XI
+D$HI
+D$`I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+\$`L
+L$XL
+D$PH9
+D$PM
+D$@G
+L$XM
+\$`L
+\$@G
+t$hL
+t$@G
+t$hL
+\$`L
+L$XL
+\$`L
+L$XL
+L$xH
+T$PL
+\$XL
+D$hL
+D$pI
+D$HI
+D$PI
+D$`I
+\$hH
+\$@H
+T$PL
+\$XL
+T$`L
+D$hL
+D$HI
+D$PI
+D$XI
+D$`I
+D$hH
+T$PL
+\$XL
+T$`L
+D$hL
+D$HI
+D$PI
+D$XI
+D$`I
+D$hH
+T$PL
+\$XL
+T$`L
+D$hL
+D$HI
+D$PI
+D$XH
+D$`I
+D$hH
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$pL
+\$hL
+\$pF
+\$hL
+L$XL
+D$PM9
+D$PI
+D$@G
+L$XM
+D$`L
+\$hL
+\$`F
+\$hL
+L$XL
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+T$XL
+L$PL
+D$PI
+D$XI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$xL
+t$xH
+t$hL
+\$hH
+L$PL
+D$PI
+D$HI
+D$@I
+D$HH
+D$pL
+\$hL
+\$pF
+\$hL
+L$XL
+D$PM9
+D$PI
+D$@G
+L$XM
+D$`L
+\$hL
+\$`F
+\$hL
+L$XL
+K@H9
+K@H9
+K@H9
+K@H9
+T$HM
+T$@L
+D$@H
+\$HH
+|$`L
+t$`H
+t$hL
+\$hH
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+\$HH
+|$`L
+t$`H
+t$hL
+\$hH
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+D$pH
+|$`H
+D$@H
+\$HH
+L$PH
+T$XH
+\$PI
+\$XI
+\$@I
+\$HI
+\$PI
+\$XI
+\$@I
+\$HI
+D$pH
+|$`H
+|$`L
+t$`H
+t$hL
+\$hL
+L$XL
+D$PH9
+D$PM
+D$HG
+L$XM
+\$hL
+\$HG
+t$`L
+t$HG
+T$pH
+T$HF
+D$pH
+|$`H
+K@H9
+K@H9
+K@H9
+K@H9
+T$HM
+T$@L
+D$@H
+\$HH
+|$`L
+t$`H
+t$hL
+\$hH
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+\$HH
+|$`L
+t$`H
+t$hL
+\$hH
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+D$pH
+|$`H
+D$@H
+\$HH
+L$PH
+T$XH
+\$PI
+\$XI
+\$@I
+\$HI
+\$PI
+\$XI
+\$@I
+\$HI
+D$pH
+|$`H
+|$`L
+t$`H
+t$hL
+\$hL
+L$XL
+D$PH9
+D$PM
+D$HG
+L$XM
+\$hL
+\$HG
+t$`L
+t$HG
+T$pH
+T$HF
+D$pH
+|$`H
+\$@H
+\$@H
+T$XL
+\$`L
+D$pL
+D$xI
+D$PI
+D$XI
+D$hI
+\$pH
+D$HH
+D$@H
+D$@H
+T$XL
+\$`L
+T$hL
+D$pL
+D$PI
+D$XI
+D$`I
+D$hI
+D$pH
+D$@H
+T$XL
+\$`L
+T$hL
+D$pL
+D$PI
+D$XI
+D$`I
+D$hI
+D$pH
+D$@H
+T$XL
+\$`L
+T$hL
+D$pL
+D$PI
+D$XI
+D$`I
+D$hI
+D$pH
+D$@H
+T$XL
+\$`L
+T$hL
+D$pL
+D$PI
+D$XI
+D$`I
+D$hI
+D$pH
+D$@H
+T$XL
+\$`L
+T$hL
+D$pL
+D$PI
+D$XI
+D$`H
+D$hI
+D$pH
+L$HH
+T$PL
+\$XL
+D$`L
+L$`H
+T$HI
+T$PI
+D$XI
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+T$@M
+T$HL
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+T$hL
+L$`L
+D$`I
+D$hI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+T$hL
+L$`L
+D$`I
+D$hI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+T$hL
+L$`L
+D$`I
+D$hI
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+L$`L
+D$`I
+D$HI
+D$@I
+D$HH
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+L$`L
+D$`I
+D$HI
+D$@I
+D$HH
+D$HH
+D$HH
+\$@H
+|$PL
+t$PH
+t$XL
+\$XH
+L$`L
+D$`I
+D$`L
+D$@G
+L$hI
+\$XL
+\$XL
+L$hL
+L$hI
+L$pL
+\$XL
+\$pF
+\$XL
+L$hL
+L$hI
+L$xL
+\$XL
+\$xF
+\$XL
+L$hL
+D$`I
+D$HI
+D$@I
+L$hI
+\$XL
+\$XL
+L$hL
+L$hI
+\$XL
+\$XL
+L$hL
+D$`I
+D$HI
+D$@I
+D$`I
+D$HI
+D$@I
+L$hI
+L$hL
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+K@H9
+T$HM
+T$@L
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+T$XL
+L$PL
+D$PI
+D$XI
+D$@I
+D$HI
+D$@H
+L$XM
+\$`L
+\$HG
+t$hI
+|$hH
+t$`H
+T$XH
+D$@H
+\$HH
+\$@I
+\$HI
+D$@H
+D$@H
+D$@H
+\$HH
+L$PH
+T$XH
+|$hL
+t$hH
+t$`L
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+t$hI
+|$hH
+t$`H
+T$XH
+t$hI
+|$hH
+t$`H
+T$XH
+\$`L
+\$HG
+t$hL
+t$HG
+|$hH
+t$`H
+T$XH
+D$@H
+\$HH
+\$@I
+\$HI
+D$@H
+D$@H
+D$@H
+\$HH
+L$PH
+T$XH
+t$`H
+\$pI
+t$pH
+|$hL
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$hI
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$hI
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$hI
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$hI
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$hI
+|$hH
+t$`H
+T$XH
+|$hH
+t$`H
+T$XH
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+T$XL
+L$PL
+D$PI
+D$XI
+D$@I
+D$HI
+D$@H
+\$`L
+\$HG
+t$hI
+|$hH
+t$`H
+T$XH
+D$@H
+\$HH
+\$@I
+\$HI
+D$@H
+D$@H
+D$@H
+\$HH
+L$PH
+T$XH
+|$hL
+t$hH
+t$`L
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+D$PI
+D$XI
+D$@I
+D$HI
+D$`I
+t$hI
+|$hH
+t$`H
+T$XH
+t$hI
+|$hH
+t$`H
+T$XH
+t$hI
+|$hH
+t$`H
+T$XH
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+T$XL
+L$PL
+\$HI
+D$PI
+D$XI
+D$@I
+D$`I
+D$@H
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+T$XL
+L$PL
+\$HI
+D$PI
+D$XI
+D$@I
+D$`I
+D$@H
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+T$XL
+L$PL
+D$PI
+D$XI
+D$@I
+D$HI
+D$@H
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$@I
+D$HI
+D$@H
+D$@H
+D$@H
+t$pL
+\$pI
+D$@H
+\$HH
+L$PH
+T$XH
+t$`H
+|$hH
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+D$hI
+D$@H
+L$XM
+\$`L
+\$HG
+t$hL
+t$HG
+t$pL
+\$pH
+T$xL
+D$xH
+D$@H
+\$HH
+|$hL
+t$hH
+t$`L
+\$`H
+L$PL
+D$PI
+D$PL
+D$HG
+D$PI
+D$@I
+D$HI
+L$XM
+\$`L
+\$HG
+\$`L
+L$XL
+t$pL
+\$pH
+T$xL
+D$xH
+D$@H
+\$HH
+L$PH
+T$XH
+t$`H
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+\$PI
+\$XI
+\$@I
+\$HI
+\$`I
+\$pI
+t$pL
+D$xI
+T$xH
+|$hL
+t$HI
+t$hL
+\$`L
+L$XL
+t$pL
+\$pH
+T$xL
+D$xH
+t$pL
+\$pH
+T$xL
+D$xH
+t$pL
+\$pH
+T$xL
+D$xH
+\$`L
+\$HG
+t$hL
+t$HG
+T$xH
+T$HF
+t$pL
+\$pI
+t$hL
+\$`L
+L$XL
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+t$pL
+\$pI
+I{qH
+K'H;K/t)H
+M(H;K't
+C'H;C/t)H
+D$@H
+L$HH
+T$PH
+t$XH
+L$`H
+L$@H
+L$HH
+L$PH
+L$XH
+L$`H
+\$@H
+K/H9
+T$`L
+D$hL
+L$pL
+T$xL
+L$pH
+D$xH9
+D$xH
+L$pH
+D$hH
+L$`H
+T$XI
+|$@L
+D$@H
+t$HL
+L$HH
+\$PH
+L$PI
+[/I9
+uPL;EXu4L
+\$`H
+L$hL
+D$pL
+L$xL
+L$pH
+D$xH9
+MPH+MXH;K
+\$`H
+L$hL
+D$pL
+L$xL
+L$pH
+D$xH9
+L+0I
+K/H9
+D$HH
+E(HaC
+E08_C
+D$@H
+C'H;C/t)H
+E (oC
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+E hxC
+E 0yC
+E P|C
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+C'H;C/t)H
+\$PH
+\$PH
+\$PH
+|$pL
+D$pH
+t$xL
+|$@L
+D$@H
+t$HL
+\$PL
+L$PI
+} E1
+\$PH
+\$PL
+L$PI
+\$PH
+\$PL
+L$PI
+\$PH
+D$`I
+|$`L
+L$hI
+|$pL
+D$pH
+t$xL
+L$xI
+L$PH
+|$@L
+D$@H
+t$HL
+L$HI
+D$XH
+L$PH
+D$HH
+D$HI
+D$@I
+ZB%H
+\$@H
+L$@I
+KhH)
+Hc[0H
+H+2H
+QhH)
+Hc[0H
+H+2H
+QhH)
+Hc[0H
+ t&I
+D$@H
+\$@I
+\$@H
+D$@I
+L$HI
+T$PH
+L$HL
+L$PH
+\$HI
+\$PI
+t$HH
+L$PH
+D$HH
+T$XH
+|$HH
+T$`H
+T$PH
+L$HL
+D$@H
+\$@I
+D$@H
+\$@I
+D$@H
+\$@I
+D$@H
+\$@I
+D$@H
+\$@I
+D$@H
+\$@I
+D$@H
+\$@I
+V<Q@
+?'4H
+ED_o
+LsN4
+O" #
+q<V)]3I
+FG5E
+-z*H
+tJ#I
+	s=I
+H;K'
+H;K'
+H;K&
+H;K%
+\$@L
+](H+]
+D$@H
+L$HH
+L$HH
+T$PL
+D$XL
+L$`L
+T$hH
+t$pL
+L$@H
+L$HH
+L$PH
+L$XH
+L$`H
+L$hH
+L$pH
+L$HH
+T$PL
+\$`L
+D$hL
+L$pL
+D$@I
+D$HI
+D$hI
+D$pI
+D$XI
+D$`I
+L$@H
+T$@H
+\$@H
+L$@H
+L$@H
+\$HL
+}0H9
+\$`H
+L$`I
+u8H9
+] H9
+L$@H
+M H;M
+U8H9
+\$XH
+D$`H
+t$@H
+D$XH
+\$`I
+\$hH
+\$pH
+L$@H
+L$pH
+u8H9
+D$XH
+\$`H
+L$@I
+|$HH
+L$HH
+L$@H
+u8H9
+\$XH
+D$`H
+|$@H
+D$HL
+L$HH
+t$@H
+u8H9
+T$XH
+D$`H
+|$@H
+D$HL
+L$HH
+} E1
+\$PL
+L$PL
+D$XI
+\$`H
+L$`I
+\$`H
+L$`I
+L$`L
+L$`L
+L$`L
+\$`H
+L$`I
+L$`L
+L$`L
+L$`L
+u8H9
+D$XH
+\$`I
+\$xH
+L$@H
++H;C
+L$@H
+EX`#E
+M@H)
+VH;C
+s&L9
+E0XAE
+C'H)
+L$PL
+D$XL
+T$HH
+L$`L
+\$hH
+D$`I
+D$hH
+D$HH
+D$PH
+D$@H
+D$XH
+L$@H
+L$PL
+D$XL
+T$HH
+L$`L
+\$hH
+D$`I
+D$hH
+D$HH
+D$PH
+D$@H
+D$XH
+L$@H
+D$@H
+L$HH
+L$PL
+D$XL
+T$HH
+L$`L
+\$hH
+D$`I
+D$hH
+D$HH
+D$PH
+D$@H
+D$XH
+L$@H
+D$HH
+L$@H
+D$HH
+L$@H
+D$HH
+L$@H
+L$@H
+fff.
+fff.
+fff.
+fff.
+ffff.
+ffff.
+|4A9
+|$@H
+D$HH
+L$HH
+D$HH
+|$@H
+L$HHc
+|$@H
+D$@H
+H+>H
+qhH)
+L$HH
+1HcI0H
+D$HL
+L$PL
+|$PH
+t$HH
+T$@H
+H+>H
+rhH)
+L$HH
+1HcI0H
+T$@H
+D$@I
+D$@I
+H+>H
+qhH)
+L$HH
+1HcI0H
+D$HL
+L$PL
+t$PH
+T$HH
+L$@L
+D$PI
+D$@I
+D$HI
+L$HH
+T$PH
+D$PI
+D$@I
+D$HI
+D$@H
+D$HH
+t$HH
+T$@I
+D$@H
+D$HH
+D$@H
+D$HH
+H+>H
+qhH)
+L$HH
+1HcI0H
+D$PI
+D$@I
+D$HI
+L$HH
+T$PH
+D$PI
+D$@I
+D$HI
+T$HH
+D$@H
+D$HH
+D$@H
+D$HH
+D$HL
+L$PL
+D$@H
+D$HH
+|$PH
+t$HH
+T$@H
+E I)
+\$@H
+\$@H
+\$@H
+H+>H
+rhH)
+L$HH
+1HcI0H
+D$@H
+\$@I
+D$@H
+\$@I
+U Hc
+L$@H
+D$@H
+\$@I
+w^Hc
+}(Hc
+T$pH
+t$xL
+L$xH
+t$pH
+T$hL
+E(Hc
+E(Hc
+L$PH
+L$PH
+t$`H
+L$hHc
+D$PH
+L$hHc
+L$`H
+T$`H
+XhH)
+1HcI0H
+U Hc
+D$@H
+wDL9
+t$HI
+\$H1
+T$@L
+\$HH
+T$PH
+\$PI
+L$`H
+L$hL
+\$pL
+T$xL
+T$xH
+L$pH9
+D$`I
+D$XI
+D$hI
+D$`I
+\$HH
+rhL)
+1HcI0H
+T$@H
+T$@H
+D$@I
+L$@H
+D$HH
+\$HI9
+H;]@
+T$@H
+t$@H
+L$HH
+\$HH
+HXH9
+D$@H
+\$@H
+t$HL
+T$HH
+\$@H
+T$@H
+E(($F
+M8H;M(t*H9
+E(@-F
+E085F
+EH`7F
+L$@H
+t$PL
+T$XL
+L$`L
+\$HH
+L$hL
+D$pH
+L$hH
+L$PH
+L$XH
+L$@H
+L$`H
+L$HH
+L$pH
+L$@H
+D$@H
+L$HH
+T$PH
+t$XH
+D$HH
+D$HH
+\$HI
+D$@I
+D$XI
+t$PI
+E0h@F
+L$`H
+L$`H
+\$@H
+}0H9
+M0H)
+T$@H
+S/L9
+t$@L9
+s/L9
+tqL9
+K'H9
+K'H9
+XhH)
+1HcI0H
+XhH)
+L$HHc
+1HcI0H
+L$@H
+L$@H
+\$@H
+T$HH
+\$HH
+|_H9
+x*uHI9
+u-I9
+[]A\A]A^A_
+[]A\A]A^A_
+fff.
+AVAUATUSD
+p $E
+QZ^&
+A]A^	
+fff.
+AWAVAUA
+z@A9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+t$HH
+|$HH
+\$@H
+\$@H
+L$@I
+] H9
+L$HL
+\$HI
+\$@I
+t$HH
+|$HH
+\$PH
+\$@H
+D$@I
+|QH9
+T$HH
+L$PL
+\$XL
+L$PH
+D$XH9
+D$HH
+L$@H
+|$XH
+\$@H
+L$@H
+4$E1
+\$@H
+ffffff.
+ffff.
+ffffff.
+ffffff.
+ffffff.
+[]A\A]
+fff.
+tFATI
+[]A\
+ffffff.
+ffffff.
+ATLc
+ffff.
+ffff.
+ffff.
+ATUH
+[]A\
+AVAUATUSH
+8[]A\A]A^A_
+D$ I
+L$(M
+L$(H
+D$ I
+(HcD$
+AWAVAUATI
+t'M9e
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+|lMc
+[]A\A]A^A_
+ffff.
+AWAVAUATUH
+[]A\A]A^A_
+ffffff.
+ATUH
+ffffff.
+fff.
+fffff.
+[]A\A]
+<Gt6<Mub
+w_L9
+ffffff.
+AUATUH
+[]A\A]
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+ATUHc
+]A\A]A^
+AWAVAUATA
+-<Kw
+[]A\A]A^A_
+ffffff.
+[]A\A]A^
+[]A\A]A^
+AWAVAUI
+oD$P
+oL$`
+oT$p
+x=uKH
+[]A\A]A^A_
+[]A\A]A^A_
+fff.
+t$pH
+tPw4
+ATUH
+A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+T$pH
+[]A\
+fffff.
+fffff.
+AVAUATI
+3/#I)
+A\A]A^A_
+A\A]A^A_
+ffff.
+ffff.
+AWAVAUATUSH
+[]A\A]A^A_
+fffff.
+ATSH
+AVAUATUSH
+s[H;
+@H;l
+([]A\A]A^A_
+AWE1
+AVAUATUSH
+$tSL
+[]A\A]A^A_
+AWE1
+AVAUATUSH
+([]A\A]A^A_
+vcH;
+@M;|
+AWAVAUI
+ATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+ffffff.
+L; u
+[]A\A]
+[]A\A]
+A\A]
+L; u
+[]A\A]
+[]A\A]
+[]A\A]
+fffff.
+AWAVAUATUSH
+[]A\A]A^A_
+]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUSH
+A\A]
+ffffff.
+ffffff.
+AWAVAUATUSH
+F A9
+H9H8
+[]A\A]A^A_
+fff.
+fffff.
+ffffff.
+ffff.
+AWAVE1
+[]A\A]A^A_
+\$PL
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATI
+8uYH
+[]A\A]A^
+#ubH
+9u"L
+[]A\A]A^
+AVAUATUH
+8uIL
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+ATUS@
+[]A\
+[]A\
+[]A\
+ffff.
+ffffff.
+ffff.
+fffff.
+AUATUH
+A\A]
+AUATI
+[]A\A]
+fffff.
+AUATUSH
+[]A\A]
+ffff.
+ffffff.
+t$(H
+T$0H
+L$8L
+D$@L
+)D$P
+)L$`
+)T$p
+fffff.
+fffff.
+fff.
+fffff.
+AVAUI
+t$ H
+L$HI
+t$(H
+t$0H
+t$8H
+t$XH
+T$PH
+D$XH
+I+UxH
+D$8H
+D$@H
+D$HH
+D$ H
+D$(H
+D$0H
+[]A\A]A^A_
+h[]A\A]A^A_
+ffff.
+AVAUE1
+ATUSH
+T$PH
+[]A\A]A^A_
+T$HH+
+H+5FG
+L+%PF
+d$pL
+l$xH
+T$0H
+T$8H
+$$L)
+*D$ 
+T$0H
+D;5.9
+YT$ f
+ffffff.
+t$ L
+|$(H
+ffff.
+t"Mc
+AUE1
+ATUSH
+[]A\A]
+AVAUI
+ATUSH
+([]A\A]A^A_
+AWAVI
+AUATUH
+8[]A\A]A^A_
+8[]A\A]A^A_
+H=P4H
+tUH=
+T$(L
+L$ D
+L$ H
+T$(H
+Bh[]A\
+fff.
+t0H9
+ffff.
+ATUSH
+t^H9
+$t([]A\
+ffffff.
+AUATUSH
+8P4H
+[]A\A]
+AVAUATI
+H=(6H
+[]A\A]A^
+[]A\A]A^
+ffff.
+ffff.
+AWAVAUI
+t";Vpw
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUI
+ATUH
+[]A\A]A^A_
+fffff.
+tGSH
+ffffff.
+AUATI
+x xaK
+A\A]A^
+[]A\A]A^
+ffff.
+AUATUSH
+[]A\A]
+ffffff.
+ffffff.
+ffffff.
+ffffff.
+t;U1
+;Q0I
+P0L9
+G0I)
+H90r
+p0H9
+fffff.
+@0I9
+fffff.
+t#SH
+ffffff.
+s7H)
+[]A\
+AWAVAUATM
+t$<H
+D;-d
+@PH9
+l$ L
+d$(L
+l$0H
+t/E1
+9-'1
+t$0M
+t$0j
+t$XPH
+X[]A\A]A^A_
+t$H1
+H+D$HH
+X[]A\A]A^A_
+fff.
+[]A\
+ffffff.
+r	I9
+fff.
+[]A\
+P0Hc
+P0H)WhH
+H)Wp
+AUATA
+[]A\A]
+[]A\A]
+ffffff.
+AUATUS
+[]A\A]
+fffff.
+[]A\
+wctyI
+[]A\
+[]A\
+([]A\
+AVAUATUSL
+D$(A
+T$(L
+\$(M
+d$(M
+]A\A]A^
+d$(L
+AUATUSH
+[]A\A]
+[]A\A]
+fff.
+AWAVI
+AUATUSH
+A\A]A^A_
+ffffff.
+AWAVAUATUSH
+tnE1
+H9l$
+8[]A\A]A^A_
+H9l$
+|$(I
+fff.
+AWAVAUATUSH
+([]A\A]A^A_
+t5E1
+AWAVAUATUSH
+D$ Hi
+|$(H
+(H;h
+$H;h
+T$(H
+8[]A\A]A^A_
+AWAVAUATUSH
+t3E1
+M;l$
+|$ H
+xsIc
+([]A\A]A^A_
+[]A\A]
+AWAVAUE1
+D9-p
+w0L)
+[]A\A]A^A_
+ffff.
+AWAVA
+AUATUS
+[]A\A]A^A_
+fffff.
+tKA9
+ffff.
+t	H9
+H)hhA
+H)XhI
+[]A\
+AVAUI
+ATUSH
+$h5H
+u4[L
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+H)XhH
+H0H)J
+fff.
+>@@H
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AUATI
+]A\A]
+ffffff.
+fffff.
+H9APs9
+Q|A9
+AUE1
+[]A\A]
+tOUH
+ATUH
+ffffff.
+u_Hi
+;HiT$
+fffff.
+fffff.
+D$HH
+fffff.
+ffff.
+AUATU
+uSE1
+uQE1
+[]A\A]A^A_
+t!E1
+ffffff.
+ATSH
+AWAVAUATI
+x{L)
+[]A\A]A^A_
+fffff.
+ffff.
+ffffff.
+t~H;k(xxH
+AWAVAUA
+d$@1
+T$?D
+T$?D
+[]A\A]A^A_
+D$0L
+D$ L
+ffffff.
+ATUS1
+[]A\
+fff.
+ffffff.
+ffffff.
+ffffff.
+ffffff.
+AVAUATI
+oT$ 
+o\$0
+od$@
+ol$P
+ot$`
+o|$p
+[]A\A]A^
+fffff.
+ffff.
+ffffff.
+ffff.
+ffffff.
+H(Hc
+H(Hc
+H(Hc
+Hc@$H
+KhH)
+1HcI0H
+Hc@$H
+Hc@$H
+Hc@$
+Hc@$
+Hc@$H
+Hc@$
+Hc@$
+Hc@$H
+Hc@$
+Hc@$H
+HhH)
+1HcI0H
+Hc@$
+Hc@$
+Hc[$
+@8H;
+sTI;
+HhH)
+Hc[0H
+Hc@$
+%paK
+HhH)
+:HcR0H
+D$@H
+<%paK
+%paK
+$unI
+XhH)
+"uoH
+HcR$H
+Hc@$H
+D$PH
+L$PH
+L$PH
+ChH)
+Hc@0H
+Hc@$H
+@8H;
+?Hc@
+H(Hc
+@8H;
+@8H;
+@8H;
+@8H;
+L$@H
+;P?H
+L$HH
+L$@H
+L$HH
+L$HL
+D$@H
+t$PH
+D$HH
+L$PH
+D$HH
+D$HH
+L$HL
+D$@H
+t$PH
+D$HH
+L$PH
+D$HH
+D$HH
+@8H;
+T$HH
+L$@H
+T$HH
+@8H;
+T$HH
+L$@H
+T$HH
+@8H;
+T$HH
+L$@H
+T$HH
+@8H;
+T$HH
+L$@H
+T$HH
+@8H;
+@8H;
+L$HH
+L$@H
+L$HH
+@8H;
+L$@H
+@8H;
+L$@H
+@8H;
+L$@H
+@8H;
+L$@H
+;@@H
+;@@H
+;@@H
+L$@H
+H=xaK
+D$HL
+D$HH
+D$@L
+@8H;
+Hc[$
+HcH$H	
+@8H;
+HcI$
+HcP$H	
+KHHc
+Hc[$
+D$@H
+@8H;
+XhH)
+1HcI0H
+L$@H
+\$HH
+@8H;
+@PH=
+@8H;
+@8H;
+XhH)
+1HcI0H
+8uuH
+@8H;
+@8H;
+T$@L
+T$@L
+L$PL
+D$XH
+T$`L
+t$`H
+T$XH
+D$PH
+L$HH
+L$PH
+T$XL
+D$`H
+\$HH
+D$PH
+D$PH
+L$HH
+D$HH
+L$PH
+T$XL
+t$XH
+T$PH
+L$HH
+D$@H
+T$HH
+L$PL
+D$XH
+\$@H
+D$HH
+L$HH
+D$@H
+@8H;
+T$@H
+|$@I
+T$@H
+\$HH
+H;A(v	H
+XhH)
+Hc[0H
+XhH)
+HhH)
+L$HH
+T$PL
+D$XL
+:HcR0H
+L$@H
+L$HH
+L$PI
+L$XI
+XhH)
+Hc[0H
+HhH)
+HhH)
+HhH)
+D$@H
+L$HH
+L$@H
+L$HH
+L$HH
+L$@H
+L$HH
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+HcC H
+ H;W
+[]A\
+G0H)
+ffffff.
+t	[]A\
+r.Hc
+fff.
+AVAUI
+>wIf
+[]A\A]A^A_
+AWAVAUATUSH
+8A;WT|
+[]A\A]A^A_
+([]A\A]A^A_
+[]A\A]A^
+AWAVAUATI
+~	H)
+[A\A]A^A_]
+fffff.
+ATE1
+fff.
+AUATI
+]A\A]
+ffffff.
+AWAVAUATI
+[A\A]A^A_]
+H9H8rUL
+H9H8
+u Hc
+B4HcE
+H9H8s
+fff.
+ATUH
+UHSH
+8D9eT~4H
+AWAVAUI
+ATUSH
+H=h5H
+H=P4H
+t"E1
+[]A\A]A^A_
+D$ M
+\$ %
+@0A9G0
+D$`H
+@0A9D$0t
+ffff.
+H=h5H
+H=P4H
+AUATUSH
+w5HcX
+[]A\A]
+ffffff.
+AUATI
+[]A\A]
+ffffff.
+tGH)
+fff.
+AWAVAUATUSH
+D9=^
+tSf.
+[]A\A]A^A_
+fff.
+W(H9B
+ffffff.
+[]A\
+AWAVAUI
+t$ H
+t$ L
+D$(I
+U tn1
+[]A\A]A^A_
+T$(L
+T$ D
+\$(M
+H;T$
+D$(H
+D$ L
+D$(I
+T$ I
+D$ L
+t$ L
+fff.
+AUATI
+[]A\A]
+UXH=
+[]A\A]
+[]A\A]
+ffffff.
+AVAUATUSH
+L9eH
+]A\A]A^
+]A\A]A^
+S E1
+]A\A]A^
+H=H=H
+ffffff.
+ATUH
+]A\A]A^
+$H=H
+]A\A]A^
+[]A\A]
+v+ATI
+v3AUI
+ffffff.
+v;AUI
+A\A]
+ffffff.
+D$(L
+W H)
+w(H#G
+O I9
+O(H!
+t:SH
+ffffff.
+w=H9
+ffffff.
+r=H;
+ffffff.
+ATUSH
+[]A\
+wJH9
+O	E1
+?u	I
+rLH;
+?u	H
+?u	H
+AUATUSH
+[]A\A]
+rAH;
+]A\A]
+rIH;
+rPH;
+r@H;
+F [L
+]A\A]
+rEH;
+rMH;
+rMH;
+rIH;
+H;=9
+H;=8
+wJH9
+O	E1
+?u	I
+rLH;
+?u	H
+rIH;
+rPH;
+rKH;
+rPH;
+rPH;
+rPH;
+r@H;
+rEH;
+rIH;
+rPH;
+rPH;
+r@H;
+rGH;
+rIH;
+rPH;
+r@H;
+rDH;
+N)E1
+rQH;
+rPH;
+rHH;
+rDH;
+rLH;
+?u	H
+H9=<
+wJH9=;
+z	E1
+?u	I
+?u	H
+H;=*
+H;=)
+?u	H
+N!E1
+?u	I
+N!E1
+?u	I
+?u	I
+?u	I
+fffff.
+AVAUATUSH
+rEH;
+D$ H
+3H;s
+D$(H
+rEH;
+\$(H
+sxf.
+rMH;
+rMH;
+rAH;
+rEH;
+rQH;5
+rPH;5
+rHH;5I
+rEH;
+rMH;
+rMH;
+rIH;
+rDH;
+rHH;
+rHH;
+rHH;
+rDH;
+rAH;
+H9=P
+H;=x
+rHH;
+rAH;
+rQH;5z
+rPH;5
+rHH;5
+rHH;
+rHH;
+r@H;
+rEH;
+rHH;
+rHH;
+rHH;
+r@H;
+rHH;
+rHH;
+rHH;
+rHH;
+rHH;
+rHH;
+r@H;
+rDH;
+H;T$
+rDH;
+rJH;5p|
+rJH;5
+rAH;5
+?u	I
+O0E1
+?u	I
+O0E1
+?u	I
+?u	I
+?u	I
+?u	H
+?u	H
+{!E1
+?u	I
+?u	I
+?u	I
+8[]A\A]A^A_
+5tOH
+ffffff.
+AUATU1
+([]A\A]A^A_
+[]A\A]A^A_
+H=(6H
+L;f w9H
+u(;5IM
+ATUSH
+L$(9
+[]A\
+H(D;
+L;N 
+[]A\
+X*t>I
+|$@H
+|$@H
+|$@[]A\
+[]A\
+ffff.
+[]A\A]A^A_
+ffffff.
+uIH9
+uCI9
+usage: scotty <flag>
+incorrect
+correct
+main
+Main
+base
+Control.Exception.Base
+<<loop>>
+Control.Concurrent.STM.atomically was nested
+Oops!  Entered absent arg 
+ in unboxed sum.
+NonTermination
+NestedAtomically
+base:Control.Exception.Base.NestedAtomically
+base:Control.Exception.Base.NonTermination
+malloc
+out of memory
+base:Foreign.Storable.C:Storable
+GHC.Conc.setHandler: signal out of range
+no threads to run:  infinite loop or deadlock?
+base:GHC.Conc.Sync.ThreadId
+Prelude.undefined
+error
+GHC.Err
+libraries/base/GHC/Err.hs
+CallStack (from -prof):
+GHC.Exception
+ErrorCall
+ in 
+CallStack (from HasCallStack):
+, called at 
+base:GHC.Exception.ErrorCallWithLocation
+arithmetic overflow
+arithmetic underflow
+loss of precision
+divide by zero
+denormal
+Ratio has zero denominator
+GHC.Exception.Type
+ArithException
+base:GHC.Exception.Type.Overflow
+base:GHC.Exception.Type.C:Exception
+base:GHC.Exception.Type.SomeException
+base:GHC.Fingerprint.Type.Fingerprint
+mallocPlainForeignPtrBytes: size must be >= 0
+GHC.ForeignPtr: attempt to mix Haskell and C finalizers in the same ForeignPtr
+mallocForeignPtrBytes: size must be >= 0
+base:GHC.ForeignPtr.MyWeak
+base:GHC.ForeignPtr.ForeignPtr
+base:GHC.ForeignPtr.PlainForeignPtr
+base:GHC.ForeignPtr.MallocPtr
+base:GHC.ForeignPtr.PlainPtr
+base:GHC.ForeignPtr.NoFinalizers
+base:GHC.ForeignPtr.CFinalizers
+base:GHC.IO.Buffer.Buffer
+base:GHC.IO.Buffer.ReadBuffer
+base:GHC.IO.Buffer.WriteBuffer
+mkTextEncoding
+unknown encoding:
+ISO_8859-1:1987
+iso-ir-100
+ISO_8859-1
+ISO-8859-1
+latin1
+IBM819
+CP819
+csISOLatin1
+ANSI_X3.4-1968
+iso-ir-6
+ANSI_X3.4-1986
+ISO_646.irv:1991
+US-ASCII
+IBM367
+cp367
+csASCII
+ASCII
+ISO646-US
+UTF8
+UTF32LE
+UTF32BE
+UTF32
+UTF16LE
+UTF16BE
+UTF16
+//IGNORE
+//TRANSLIT
+//ROUNDTRIP
+recoverDecode
+invalid byte sequence
+recoverEncode
+invalid character
+base:GHC.IO.Encoding.Failure.ErrorOnCodingFailure
+base:GHC.IO.Encoding.Failure.IgnoreCodingFailure
+base:GHC.IO.Encoding.Failure.RoundtripFailure
+Iconv.close
+UTF-32LE
+iconvRecoder
+base:GHC.IO.Encoding.Types.TextEncoding
+base:GHC.IO.Encoding.Types.BufferCodec
+base:GHC.IO.Encoding.Types.InputUnderflow
+base:GHC.IO.Encoding.Types.OutputUnderflow
+base:GHC.IO.Encoding.Types.InvalidSequence
+UTF16-LE
+UTF-16BE
+UTF-16
+UTF-32BE
+UTF-32
+UTF-8
+thread blocked indefinitely in an MVar operation
+thread blocked indefinitely in an STM transaction
+allocation limit exceeded
+compaction failed: 
+stack overflow
+heap overflow
+thread killed
+user interrupt
+already exists
+does not exist
+resource busy
+resource exhausted
+end of file
+illegal operation
+permission denied
+user error
+unsatisfied constraints
+system error
+protocol error
+failed
+invalid argument
+inappropriate type
+hardware fault
+unsupported operation
+timeout
+resource vanished
+interrupted
+GHC.IO.Exception
+BlockedIndefinitelyOnMVar
+BlockedIndefinitelyOnSTM
+Deadlock
+AllocationLimitExceeded
+CompactionFailed
+SomeAsyncException
+AsyncException
+ExitCode
+IOException
+cannot compact mutable objects
+cannot compact pinned objects
+cannot compact functions
+base:GHC.IO.Exception.IOError
+base:GHC.IO.Exception.AlreadyExists
+base:GHC.IO.Exception.NoSuchThing
+base:GHC.IO.Exception.ResourceBusy
+base:GHC.IO.Exception.ResourceExhausted
+base:GHC.IO.Exception.IllegalOperation
+base:GHC.IO.Exception.PermissionDenied
+base:GHC.IO.Exception.UserError
+base:GHC.IO.Exception.UnsatisfiedConstraints
+base:GHC.IO.Exception.ProtocolError
+base:GHC.IO.Exception.OtherError
+base:GHC.IO.Exception.InvalidArgument
+base:GHC.IO.Exception.InappropriateType
+base:GHC.IO.Exception.HardwareFault
+base:GHC.IO.Exception.UnsupportedOperation
+base:GHC.IO.Exception.TimeExpired
+base:GHC.IO.Exception.ResourceVanished
+base:GHC.IO.Exception.Interrupted
+base:GHC.IO.Exception.StackOverflow
+base:GHC.IO.Exception.HeapOverflow
+base:GHC.IO.Exception.UserInterrupt
+base:GHC.IO.Exception.SomeAsyncException
+base:GHC.IO.Exception.AllocationLimitExceeded
+base:GHC.IO.Exception.BlockedIndefinitelyOnSTM
+base:GHC.IO.Exception.BlockedIndefinitelyOnMVar
+hFlush
+<stderr>
+<stdout>
+handle is closed
+handle is semi-closed
+handle is not open for writing
+cannot flush the read buffer: underlying device is not seekable
+handle is finalized
+codec_state
+commitBuffer
+hPutChar
+no buffer!
+hPutStr
+{handle: 
+base:GHC.IO.Handle.Types.NewlineMode
+base:GHC.IO.Handle.Types.FileHandle
+base:GHC.IO.Handle.Types.Handle__
+base:GHC.IO.Handle.Types.LF
+base:GHC.IO.Handle.Types.NoBuffering
+base:GHC.IO.Handle.Types.LineBuffering
+base:GHC.IO.Handle.Types.BlockBuffering
+base:GHC.IO.Handle.Types.WriteHandle
+base:GHC.IO.Handle.Types.BufferListNil
+base:GHC.IO.Handle.Types.BufferListCons
+base:GHC.IORef.Box
+base:GHC.Int.I64#
+base:GHC.Int.I32#
+base:GHC.Int.I16#
+base:GHC.Int.I8#
+base:GHC.Maybe.Nothing
+base:GHC.Maybe.Just
+base:GHC.MVar.MVar
+base:GHC.Ptr.FunPtr
+base:GHC.Ptr.Ptr
+base:GHC.STRef.STRef
+base:GHC.Show.C:Show
+base:GHC.Stable.StablePtr
+MAIN
+base:GHC.Stack.Types.EmptyCallStack
+base:GHC.Stack.Types.PushCallStack
+base:GHC.Stack.Types.SrcLoc
+If you can read this, shutdownHaskellAndExit did not exit.
+encountered an exception while trying to report an exception.
+One possible reason for this is that we failed while trying to encode an error message. Check that your locale is configured properly.
+ncountered an exception while trying to report an exception.
+One possible reason for this is that we failed while trying to encode an error message. Check that your locale is configured properly.
+base:GHC.Word.W64#
+base:GHC.Word.W32#
+base:GHC.Word.W16#
+base:GHC.Word.W8#
+fdType
+unknown file type
+sigprocmask
+tcSetAttr
+sigaddset
+sigemptyset
+setCloseOnExec
+setNonBlockingFD
+fileSize
+Ill-kinded type application: 
+GHC.TypeLits
+ -> 
+!#$%&*+./<=>?@\^|-~:
+Data.Typeable.Internal
+libraries/base/Data/Typeable/Internal.hs
+GHC.Prim
+TYPE
+base:Data.Typeable.Internal.SomeKindedTypeRep
+base:Data.Typeable.Internal.SomeTypeRep
+base:Data.Typeable.Internal.TrType
+base:Data.Typeable.Internal.TrTyCon
+base:Data.Typeable.Internal.TrApp
+base:Data.Typeable.Internal.TrFun
+awaitEvent
+IOManager on cap 
+TimerManager
+Pattern match failure in do expression at libraries/base/GHC/Event/Thread.hs:353:15-26
+Pattern match failure in do expression at libraries/base/GHC/Event/Thread.hs:339:17-30
+Pattern match failure in do expression at libraries/base/GHC/Event/Thread.hs:183:3-10
+threadWait
+Pattern match failure in do expression at libraries/base/GHC/Event/Thread.hs:104:5-17
+Running
+Finished
+GHC.Event.Manager.loop: state is already 
+base:GHC.Event.TimerManager.TimerManager
+base:GHC.Event.TimerManager.Created
+base:GHC.Event.TimerManager.Running
+base:GHC.Event.TimerManager.Finished
+base:Data.Dynamic.Dynamic
+base:Data.Type.Equality.HRefl
+Negative range size
+(Array.!): undefined array element
+}.index: Index 
+ out of range 
+base:GHC.Arr.STArray
+base:GHC.Arr.Array
+Prelude.chr: bad argument: 
+Prelude.Enum.Bool.toEnum: bad argument
+base:GHC.IO.BufferedIO.C:BufferedIO
+base:GHC.IO.Device.C:IODevice
+base:GHC.IO.Device.RelativeSeek
+base:GHC.IO.Device.Directory
+base:GHC.IO.Device.Stream
+base:GHC.IO.Device.RegularFile
+base:GHC.IO.Device.RawDevice
+GHC.IO.FD.fdWrite
+GHC.IO.FD.fdReadNonBlocking
+GHC.IO.FD.fdWriteNonBlocking
+GHC.IO.FD.fdRead
+GHC.IO.FD
+hGetPosn
+seek
+GHC.IO.FD.setSize
+GHC.IO.FD.ready
+GHC.IO.FD.dup2
+GHC.IO.FD.dup
+GHC.IO.FD.close
+base:GHC.IO.FD.FD
+sendWakeup
+eventfd
+pipe
+failed to read siginfo_t
+readControlMessage
+readWakeupMessage
+base:GHC.Event.Control.W
+base:GHC.Event.Control.CMsgWakeup
+base:GHC.Event.Control.CMsgDie
+base:GHC.Event.Control.CMsgSignal
+epollControl
+epollWaitNonBlock
+epollWait
+modifyFdOnce
+epollCreate
+base:GHC.Event.EPoll.EPoll
+base:GHC.Event.IntTable.IT
+base:GHC.Event.IntTable.Empty
+base:GHC.Event.IntTable.Bucket
+base:GHC.Event.Internal.Backend
+base:GHC.Event.Internal.Timeout
+base:GHC.Event.Internal.Forever
+Failed while attempting to modify registration of file 
+ at location 
+registerControlFd
+GHC.Event.Manager.loop: state is already Running
+unregisterFd_
+base:GHC.Event.Manager.EventManager
+base:GHC.Event.Manager.Created
+base:GHC.Event.Manager.Running
+base:GHC.Event.Manager.Releasing
+base:GHC.Event.Manager.Finished
+base:GHC.Event.Manager.FdData
+base:GHC.Event.Manager.FdKey
+base:GHC.Event.PSQ.Bin
+base:GHC.Event.PSQ.Nil
+base:GHC.Event.PSQ.E
+modifyFdOnce not supported in Poll backend
+c_poll
+reworkFd: event not found
+base:GHC.Event.Poll.Poll
+base:GHC.Event.Poll.PollFd
+GHC.Event.Array.
+: bounds error, index 
+, capacity 
+unsafeWrite'
+undefined
+GHC.Event.Array
+libraries/base/GHC/Event/Array.hs
+removeAt: invalid index
+base:GHC.Event.Array.AC
+integer-wired-in:GHC.Integer.Type.S#
+integer-wired-in:GHC.Integer.Type.Jp#
+integer-wired-in:GHC.Integer.Type.BN#
+ghc-prim:GHC.Classes.C:Eq
+ghc-prim
+GHC.Tuple
+ghc-prim:GHC.Tuple.(,,)
+ghc-prim:GHC.Tuple.(,)
+ghc-prim:GHC.Tuple.()
+GHC.Types
+VecElem
+'Int8ElemRep
+'Int16ElemRep
+'Int32ElemRep
+'Int64ElemRep
+'Word8ElemRep
+'Word16ElemRep
+'Word32ElemRep
+'Word64ElemRep
+'FloatElemRep
+'DoubleElemRep
+VecCount
+'Vec2
+'Vec4
+'Vec8
+'Vec16
+'Vec32
+'Vec64
+RuntimeRep
+'LiftedRep
+'UnliftedRep
+'IntRep
+'WordRep
+'Int8Rep
+'Int16Rep
+'Int64Rep
+'Word8Rep
+'Word16Rep
+'Word64Rep
+'AddrRep
+'FloatRep
+'DoubleRep
+'VecRep
+Symbol
+'TupleRep
+'SumRep
+ghc-prim:GHC.Types.TyCon
+ghc-prim:GHC.Types.KindRepTyConApp
+ghc-prim:GHC.Types.KindRepVar
+ghc-prim:GHC.Types.KindRepFun
+ghc-prim:GHC.Types.KindRepTYPE
+ghc-prim:GHC.Types.Module
+ghc-prim:GHC.Types.TrNameS
+ghc-prim:GHC.Types.TrNameD
+ghc-prim:GHC.Types.LiftedRep
+ghc-prim:GHC.Types.False
+ghc-prim:GHC.Types.True
+ghc-prim:GHC.Types.D#
+ghc-prim:GHC.Types.F#
+ghc-prim:GHC.Types.W#
+ghc-prim:GHC.Types.I#
+ghc-prim:GHC.Types.C#
+ghc-prim:GHC.Types.[]
+ghc-prim:GHC.Types.:
+Too many NUMA nodes (max %d)
+initCapabilities
+initCapability
+allocSegment
+allocHashList
+allocHashList: chunkList
+allocHashTable
+bad RTS option: %s
+RtsFlags.c:appendRtsArg
+RtsFlags.c:splitRtsFlags()
+copyArgv 1
+copyArg
+unexpected RTS argument: %s
+install-signal-handlers=yes
+install-signal-handlers=no
+install-seh-handlers=yes
+install-seh-handlers=no
+generate-stack-traces=yes
+generate-stack-traces=no
+generate-crash-dumps
+machine-readable
+internal-counters
+info
+long-gc-sync=
+unknown RTS option: %s
+grace=
+maxN
+Can't open stats file %s
+Unknown output flag -o%c
+incomplete RTS option: %s
+-xb: requires argument
+-xm: value must be <80000000
+stderr
+setupRtsFlags
+GHCRTS
+RTS options are disabled. %s
+--RTS
++RTS
+-RTS
++RTS 
+            (default: 2.0)
+           -M (default: 30%)
+  -Mgrace=<n>
+%s: 
+%s: internal error: 
+internal error: 
+x86_64_unknown_linux
+8.8.4
+    (GHC version %s for %s)
+: %s
+warning: too many hs_exit()s
+<unknown>
+%lu,%03lu
+%lu,%03lu,%03lu
+%lu,%03lu,%03lu,%03lu
+%lu,%03lu,%03lu,%03lu,%03lu
+ [("GHC RTS", "YES")
+GHC version
+ ,("%s", "%s")
+rts_v
+RTS way
+x86_64-unknown-linux
+Build platform
+x86_64
+Build architecture
+linux
+Build OS
+unknown
+Build vendor
+Host platform
+Host architecture
+Host OS
+Host vendor
+Target platform
+Target architecture
+Target OS
+Target vendor
+Word size
+Compiler unregisterised
+Tables next to code
+Flag -with-rtsopts
+sched_state: %lu
+initStableNameTable
+enlargeStableNameTable
+initStablePtrTable
+enlargeStablePtrTable
+initStats
+%9lu %9lu %9lu
+%9lu %9.9s %9.9s
+ %6.3f %6.3f
+%16s bytes copied during GC
+%16s bytes maximum slop
+bytes allocated
+ [("%s", "%lu")
+ ,("num_GCs", "%u")
+ ,("max_bytes_used", "%lu")
+ ,("init_cpu_seconds", "%f")
+ ,("mut_cpu_seconds", "%f")
+ ,("mut_wall_seconds", "%f")
+ ,("GC_cpu_seconds", "%f")
+ ,("GC_wall_seconds", "%f")
+ ,("exit_cpu_seconds", "%f")
+ ,("major_gcs", "%u")
+ ,("allocated_bytes", "%lu")
+ ,("max_live_bytes", "%lu")
+ ,("max_slop_bytes", "%lu")
+ ,("copied_bytes", "%lu")
+ ,("gc_cpu_percent", "%f")
+ ,("gc_wall_percent", "%f")
+ ,("alloc_rate", "%lu")
+newTask
+newInCall
+weak finalizer thread
+Heap exhausted;
+Out of memory
+freeGroup: block size is zero
+alloc_gc_threads
+freeMBlocks
+traverseWeakPtrList
+storageAddCapabilities
+initStorage: gens
+initEventLogFileWriter
+%s.eventlog
+%s.%lu.eventlog
+clock_gettime
+timer_create
+timer_settime
+unable to decommit memory
+AwaitEvent
+select
+too many pending signals
+more_handlers
+stg_sig_install: bad spi
+sigaction
+startSignalHandlers
+signal handler thread
+PAP object entered!
+BLOCKING_QUEUE_CLEAN object (%p) entered!
+BLOCKING_QUEUE_DIRTY object (%p) entered!
+WHITEHOLE object (%p) entered!
+TSO object (%p) entered!
+STACK object (%p) entered!
+WEAK object (%p) entered!
+DEAD_WEAK object (%p) entered!
+DEAD_WEAK
+C_FINALIZER_LIST object (%p) entered!
+C_FINALIZER_LIST
+NO_FINALIZER object (%p) entered!
+NO_FINALIZER
+STABLE_NAME object (%p) entered!
+MVAR object (%p) entered!
+TVAR_CLEAN object (%p) entered!
+TVAR_DIRTY object (%p) entered!
+TVAR_WATCH_QUEUE object (%p) entered!
+TREC_CHUNK object (%p) entered!
+TREC_HEADER object (%p) entered!
+END_STM_WATCH_QUEUE object (%p) entered!
+END_STM_WATCH_QUEUE
+END_STM_CHUNK_LIST object (%p) entered!
+END_STM_CHUNK_LIST
+NO_TREC object (%p) entered!
+NO_TREC
+SRT_1 object (%p) entered!
+SRT_1
+SRT_2 object (%p) entered!
+SRT_2
+SRT_3 object (%p) entered!
+SRT_3
+SRT_4 object (%p) entered!
+SRT_4
+SRT_5 object (%p) entered!
+SRT_5
+SRT_6 object (%p) entered!
+SRT_6
+SRT_7 object (%p) entered!
+SRT_7
+SRT_8 object (%p) entered!
+SRT_8
+SRT_9 object (%p) entered!
+SRT_9
+SRT_10 object (%p) entered!
+SRT_10
+SRT_11 object (%p) entered!
+SRT_11
+SRT_12 object (%p) entered!
+SRT_12
+SRT_13 object (%p) entered!
+SRT_13
+SRT_14 object (%p) entered!
+SRT_14
+SRT_15 object (%p) entered!
+SRT_15
+SRT_16 object (%p) entered!
+SRT_16
+MSG_TRY_WAKEUP object (%p) entered!
+MSG_TRY_WAKEUP
+MSG_THROWTO object (%p) entered!
+MSG_THROWTO
+MSG_BLACKHOLE object (%p) entered!
+MSG_BLACKHOLE
+MSG_NULL object (%p) entered!
+MSG_NULL
+END_TSO_QUEUE object (%p) entered!
+END_TSO_QUEUE
+Evaluated a CAF (%p) that was GC'd!
+GCD_CAF
+STM_AWOKEN object (%p) entered!
+STM_AWOKEN
+ARR_WORDS object (%p) entered!
+MUT_ARR_PTRS_CLEAN object (%p) entered!
+MUT_ARR_PTRS_DIRTY object (%p) entered!
+MUT_ARR_PTRS_FROZEN_CLEAN object (%p) entered!
+MUT_ARR_PTRS_FROZEN_DIRTY object (%p) entered!
+SMALL_MUT_ARR_PTRS_CLEAN object (%p) entered!
+SMALL_MUT_ARR_PTRS_DIRTY object (%p) entered!
+SMALL_MUT_ARR_PTRS_FROZEN_CLEAN object (%p) entered!
+SMALL_MUT_ARR_PTRS_FROZEN_DIRTY object (%p) entered!
+MUT_VAR_CLEAN object (%p) entered!
+MUT_VAR_DIRTY object (%p) entered!
+MVAR_TSO_QUEUE object (%p) entered!
+MVAR_TSO_QUEUE
+COMPACT_NFDATA_CLEAN object (%p) entered!
+COMPACT_NFDATA_DIRTY object (%p) entered!
+stg_ap_v_ret
+stg_ap_f_ret
+stg_ap_d_ret
+stg_ap_l_ret
+stg_ap_v16_ret
+stg_ap_v32_ret
+stg_ap_v64_ret
+stg_ap_n_ret
+stg_ap_p_ret
+stg_ap_pv_ret
+stg_ap_pp_ret
+stg_ap_ppv_ret
+stg_ap_ppp_ret
+stg_ap_pppv_ret
+stg_ap_pppp_ret
+stg_ap_ppppp_ret
+stg_ap_pppppp_ret
+newArena
+OCSectionIndices
+OCSectionIndices::indices
+Invalid Object
+Hpc failure: %s
+(perhaps remove %s file?)
+(perhaps remove .tix file?)
+HPCTIXDIR
+HPCTIXFILE
+Hpc.startupHpc
+%s/%s-%d.tix
+%s.tix
+('%c' '%c')
+Hpc.readTix
+Hpc.expectString
+in module '%s'
+Tix [
+ TixModule "%s" %u %u [
+bci_MKPAP
+interpretBCO: hit a CASEFAIL
+INVALID_OBJECT
+CONSTR
+CONSTR_1_0
+CONSTR_0_1
+CONSTR_2_0
+CONSTR_1_1
+CONSTR_0_2
+CONSTR_NOCAF
+FUN_1_0
+FUN_0_1
+FUN_2_0
+FUN_1_1
+FUN_0_2
+FUN_STATIC
+THUNK
+THUNK_1_0
+THUNK_0_1
+THUNK_2_0
+THUNK_1_1
+THUNK_0_2
+THUNK_STATIC
+THUNK_SELECTOR
+AP_STACK
+IND_STATIC
+RET_BCO
+RET_SMALL
+RET_BIG
+RET_FUN
+UPDATE_FRAME
+CATCH_FRAME
+UNDERFLOW_FRAME
+STOP_FRAME
+BLOCKING_QUEUE
+BLACKHOLE
+MVAR_CLEAN
+MVAR_DIRTY
+TVAR
+ARR_WORDS
+MUT_ARR_PTRS_CLEAN
+MUT_ARR_PTRS_DIRTY
+MUT_ARR_PTRS_FROZEN_DIRTY
+MUT_ARR_PTRS_FROZEN_CLEAN
+MUT_VAR_CLEAN
+MUT_VAR_DIRTY
+WEAK
+PRIM
+MUT_PRIM
+STACK
+TREC_CHUNK
+ATOMICALLY_FRAME
+CATCH_RETRY_FRAME
+CATCH_STM_FRAME
+WHITEHOLE
+SMALL_MUT_ARR_PTRS_CLEAN
+SMALL_MUT_ARR_PTRS_DIRTY
+COMPACT_NFDATA
+closureIdentity
+BEGIN_SAMPLE
+%s %f
+END_SAMPLE
+initHeapProfiling
+JOB "
+DATE "%s"
+SAMPLE_UNIT "seconds"
+VALUE_UNIT "bytes"
+initProfiling2
+hpFileName
+%s.hp
+	%lu
+dumpCensus; doHeapProfile
+removeFromQueues: %d
+newWSDeque
+newWSDeque:data space
+get_threaded_info
+unthread
+evacuate: stack frame at %p
+munmap
+libraries/base/cbits/inputReady.c
+available NUMA node set is empty
+Link with -rtsopts to enable them.
+Use hs_init_with_rtsopts() to enable them.
+error in RTS option %s: size outside allowed range (%lu - %lu)
+Most RTS options are disabled. %s
+RTS options are disabled for setuid binaries. %s
+the flag %s requires the program to be built with -debug
+the flag %s requires the program to be built with -threaded
+the flag %s requires the program to be built with -prof
+the flag %s requires the program to be built with -ticky
+the flag %s requires the program to be built with -eventlog or -debug
+Internal error in the RTS options parser
+flag -%c given an argument when none was expected: %s
+Warning: Ignoring GHCRTS variable as RTS options are disabled.
+         %s
+stack chunk buffer size (-kb) must be less than 50%%
+of the stack chunk size (-kc)
+maximum heap size (-M) is smaller than minimum alloc area size (-A)
+Usage: <prog> <args> [+RTS <rtsopts> | -RTS <args>] ... --RTS <args>
+   +RTS    Indicates run time system options follow
+   -RTS    Indicates program arguments follow
+  --RTS    Indicates that ALL subsequent arguments will be given to the
+           program (including any of these RTS flags)
+The following run time system options are available:
+  -?       Prints this message and exits; the program is not executed
+  --info   Print information about the RTS used by this program
+  -K<size>  Sets the maximum stack size (default: 80% of the heap)
+            Egs: -K32k -K512k -K8M
+  -ki<size> Sets the initial thread stack size (default 1k)  Egs: -ki4k -ki2m
+  -kc<size> Sets the stack chunk size (default 32k)
+  -kb<size> Sets the stack chunk buffer size (default 1k)
+  -A<size>  Sets the minimum allocation area size (default 1m) Egs: -A20m -A10k
+  -AL<size> Sets the amount of large-object memory that can be allocated
+            before a GC is triggered (default: the value of -A)
+  -F<n>     Sets the collecting threshold for old generations as a factor of
+            the live data in that generation the last time it was collected
+  -n<size>  Allocation area chunk size (0 = disabled, default: 0)
+  -O<size>  Sets the minimum size of the old generation (default 1M)
+  -M<size>  Sets the maximum heap size (default unlimited)  Egs: -M256k -M1G
+  -H<size>  Sets the minimum heap size (default 0M)   Egs: -H24m  -H1G
+  -xb<addr> Sets the address from which a suitable start for the heap memory
+            will be searched from. This is useful if the default address
+            clashes with some third-party library.
+  -m<n>     Minimum % of heap which must be available (default 3%)
+  -G<n>     Number of generations (default: 2)
+  -c<n>     Use in-place compaction instead of copying in the oldest generation
+           when live data is at least <n>% of the maximum heap size set with
+  -c       Use in-place compaction for all oldest generation collections
+           (the default is to use copying)
+  -w       Use mark-region for the oldest generation (experimental)
+  -T         Collect GC statistics (useful for in-program statistics access)
+  -t[<file>] One-line GC statistics (if <file> omitted, uses stderr)
+  -s[<file>] Summary  GC statistics (if <file> omitted, uses stderr)
+  -S[<file>] Detailed GC statistics (if <file> omitted, uses stderr)
+  -Z         Don't squeeze out update frames on stack overflow
+  -B         Sound the bell at the start of each garbage collection
+  -h       Heap residency profile (output file <program>.hp)
+  -hT      Produce a heap profile grouped by closure type
+  -i<sec>  Time between heap profile samples (seconds, default: 0.1)
+  -C<secs>  Context-switch interval in seconds.
+            0 or no argument means switch as often as possible.
+            Default: 0.02 sec.
+  -V<secs>  Master tick interval in seconds (0 == disable timer).
+            This sets the resolution for -C and the heap profile timer -i,
+            and is the frequency of time profile samples.
+            Default: 0.01 sec.
+  --install-signal-handlers=<yes|no>
+            Install signal handlers (default: yes)
+  -xm       Base address to mmap memory in the GHCi linker
+            (hex; must be <80000000)
+  -xq       The allocation limit given to a thread after it receives
+            an AllocationLimitExceeded exception. (default: 100k)
+            The amount of allocation after the program receives a
+            HeapOverflow exception before the exception is thrown again, if
+            the program is still exceeding the heap limit.
+RTS options may also be specified using the GHCRTS environment variable.
+Other RTS options may be available for programs compiled a different way.
+The GHC User's Guide has full details.
+main thread exited (uncaught exception)
+main thread completed with invalid status
+    Please report this as a GHC bug:  https://www.haskell.org/ghc/reportabug
+ASSERTION FAILED: file %s, line %u
+hs_init_ghc: reinitializing the RTS after shutdown is not currently supported
+%lu,%03lu,%03lu,%03lu,%03lu,%03lu
+%lu,%03lu,%03lu,%03lu,%03lu,%03lu,%03lu
+schedule: re-entered unsafely.
+   Perhaps a 'foreign import unsafe' should be 'safe'?
+deadlock: main thread blocked in a strange way
+schedule: invalid prev_what_next=%u field
+allocation of %ld bytes too large (GHC should have complained at compile-time)
+schedule: invalid thread return code %d
+resurrectThreads: thread blocked in a strange way: %d
+    Alloc    Copied     Live     GC     GC      TOT      TOT  Page Flts
+    bytes     bytes     bytes   user   elap     user     elap
+ %6.3f %6.3f %8.3f %8.3f %4lu %4lu  (Gen: %2d)
+alloc_RTSSummaryStats.gc_summary_stats
+%16s bytes allocated in the heap
+%16s bytes maximum residency (%u sample(s))
+%16lu MB total memory in use (%lu MB lost due to fragmentation)
+                                     Tot time (elapsed)  Avg pause  Max pause
+  INIT    time  %7.3fs  (%7.3fs elapsed)
+  MUT     time  %7.3fs  (%7.3fs elapsed)
+  GC      time  %7.3fs  (%7.3fs elapsed)
+  EXIT    time  %7.3fs  (%7.3fs elapsed)
+  Total   time  %7.3fs  (%7.3fs elapsed)
+  %%GC     time     %5.1f%%  (%.1f%% elapsed)
+  Alloc rate    %s bytes per MUT second
+  Productivity %5.1f%% of total user, %.1f%% of total elapsed
+  Gen %2d     %5d colls, %5d par   %6.3fs  %6.3fs     %3.4fs    %3.4fs
+Internal Counters require the threaded RTS
+ ,("average_bytes_used", "%lu")
+ ,("num_byte_usage_samples", "%u")
+ ,("peak_megabytes_allocated", "%lu")
+ ,("init_wall_seconds", "%f")
+ ,("exit_wall_seconds", "%f")
+ ,("total_cpu_seconds", "%f")
+ ,("total_wall_seconds", "%f")
+ ,("max_large_objects_bytes", "%lu")
+ ,("max_compact_bytes", "%lu")
+ ,("max_mem_in_use_bytes", "%lu")
+ ,("cumulative_live_bytes", "%lu")
+ ,("par_copied_bytes", "%lu")
+ ,("cumulative_par_max_copied_bytes", "%lu")
+ ,("cumulative_par_balanced_copied_bytes", "%lu")
+ ,("fragmentation_bytes", "%lu")
+ ,("productivity_cpu_percent", "%f")
+ ,("productivity_wall_percent", "%f")
+ ,("gen_%u_collections", "%u")
+ ,("gen_%u_par_collections", "%u")
+ ,("gen_%u_cpu_seconds", "%f")
+ ,("gen_%u_wall_seconds", "%f")
+ ,("gen_%u_max_pause_seconds", "%f")
+ ,("gen_%u_avg_pause_seconds", "%f")
+<<ghc: %lu bytes, %u GCs, %lu/%lu avg/max bytes residency (%u samples), %luM in use, %.3f INIT (%.3f elapsed), %.3f MUT (%.3f elapsed), %.3f GC (%.3f elapsed) :ghc>>
+newBoundTask: RTS is not initialised; call hs_init() first
+removeThreadFromQueue: not found
+removeThreadFromDeQueue: not found
+threadStackUnderflow: not enough space for return values
+getTopHandlerThread: neither a WEAK nor a DEAD_WEAK: %p %p %d
+Warning: waited %luus for GC sync
+malloc: failed on request for %lu bytes; message: %s
+Current maximum heap size is %lu bytes (%lu MB).
+Use `+RTS -M<size>' to increase it.
+Relink with -rtsopts and use `+RTS -M<size>' to increase it.
+Stack space overflow: current size %lu bytes.
+Use `+RTS -Ksize -RTS' to increase it.
+Relink with -rtsopts and use `+RTS -Ksize -RTS' to increase it.
+allocGroup: requested zero blocks
+allocGroup: free list corrupted
+tidyWeakList: not WEAK: %d, %p
+scavenge_stack: weird activation record found on stack: %d
+scavenge: unimplemented/strange closure type %d @ %p
+scavenge_one: strange object %d
+scavenge_static: strange closure %d
+scavenge_mark_stack: unimplemented/strange closure type %d @ %p
+WARNING: compact/sweep is incompatible with -G1; disabled
+initEventLogFileWriter: can't open %s
+getPageSize: cannot get page size
+Provided heap start address %p is lower than minimum address %p
+osReserveHeapMemory: Failed to allocate heap storage
+unable to release slop before heap
+unable to release slop after heap
+unable to release reserved heap
+Unable to commit %lu bytes of memory
+unable to release address space
+file descriptor %d out of range for select (0--%d).
+Recompile with -threaded to work around this.
+This build does not support backtraces.
+warning: failed to install SIGINT handler
+warning: failed to install SIGPIPE handler
+warning: failed to install SIGQUIT handler
+warning: failed to install SIGTSTP handler
+warning: failed to uninstall SIGINT handler
+warning: failed to uninstall SIGPIPE handler
+heapCensus, unknown object: %d
+closurePtrs: Cannot handle type %s yet
+parse error when reading .tix file
+module mismatch with .tix/.mix file hash number
+interpretBCO: unknown or unimplemented opcode %d
+SMALL_MUT_ARR_PTRS_FROZEN_DIRTY
+SMALL_MUT_ARR_PTRS_FROZEN_CLEAN
+heapCensus, found compact object in the wrong list
+Can't open profiling report file %s
+throwTo: unrecognised why_blocked (%d)
+error: a C finalizer called back into Haskell.
+   This was previously allowed, but is disallowed in GHC 6.10.2 and later.
+   To create finalizers that may call back into Haskell, use
+   Foreign.Concurrent.newForeignPtr instead of Foreign.newForeignPtr.
+DeQue,roundUp2: invalid size 0 requested
+thread_stack: weird activation record found on stack: %d
+update_fwd: unknown/strange object  %d
+thread_static: strange closure %d
+update_fwd_large: unknown/strange object  %d
+evacuate(static): strange closure type %d
+evacuate: strange closure type %d
+eval_thunk_selector: strange selectee %d
+stg_ap_0_ret... 
+;*3$"
+:(bc
+GCC: (Debian 10.2.1-6) 10.2.1 20210110
+GHC 8.8.4
+gold 1.16
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.dynsym
+.dynstr
+.gnu.hash
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.eh_frame_hdr
+.fini_array
+.init_array
+.data.rel.ro
+.dynamic
+.got
+.got.plt
+.tm_clone_table
+.data
+.bss
+.comment
+.note.gnu.gold-version
