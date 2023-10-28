@@ -1,0 +1,45 @@
+PORT     STATE SERVICE VERSION
+21/tcp   open  ftp     vsftpd 3.0.2
+22/tcp   open  ssh     OpenSSH 7.4 (protocol 2.0)
+| ssh-hostkey:
+|   2048 19:cd:2a:1d:a1:fd:2b:82:c2:de:27:00:90:1b:52:a7 (RSA)
+|   256 dd:99:85:18:26:9c:3c:7e:87:32:df:2b:43:18:b8:b8 (ECDSA)
+|_  256 a2:35:a3:7b:19:af:58:31:fd:6c:40:55:59:4d:7d:52 (ED25519)
+80/tcp   open  http    Apache httpd 2.4.6 ((CentOS) PHP/7.1.33)
+| http-methods:
+|   Supported Methods: GET HEAD POST OPTIONS TRACE
+|_  Potentially risky methods: TRACE
+| http-robots.txt: 1 disallowed entry
+|_/Cpxtpt2hWCee9VFa.txt
+|_http-server-header: Apache/2.4.6 (CentOS) PHP/7.1.33
+|_http-title: Site doesn't have a title (text/html; charset=UTF-8).
+3306/tcp open  mysql   MySQL (unauthorized)
+8009/tcp open  ajp13   Apache Jserv (Protocol v1.3)
+|_ajp-methods: Failed to get a valid response for the OPTION request
+8080/tcp open  http    Apache Tomcat/Coyote JSP engine 1.1
+|_http-favicon: Apache Tomcat
+| http-methods:
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: Apache-Coyote/1.1
+|_http-title: Apache Tomcat/7.0.88
+9999/tcp open  abyss?
+| fingerprint-strings:
+|   FourOhFourRequest, HTTPOptions:
+|     HTTP/1.0 200 OK
+|     Accept-Ranges: bytes
+|     Content-Length: 0
+|     Content-Type: text/plain; charset=utf-8
+|     Last-Modified: Thu, 12 Mar 2020 08:24:13 GMT
+|     Date: Sun, 31 Oct 2021 18:52:04 GMT
+|   GenericLines, Help, Kerberos, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie:
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest:
+|     HTTP/1.0 200 OK
+|     Accept-Ranges: bytes
+|     Content-Length: 0
+|     Content-Type: text/plain; charset=utf-8
+|     Last-Modified: Thu, 12 Mar 2020 08:24:13 GMT
+|_    Date: Sun, 31 Oct 2021 18:52:03 GMT
